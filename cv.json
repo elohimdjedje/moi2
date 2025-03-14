@@ -1,0 +1,216 @@
+{
+  "basics": {
+    "name": "Elohim Mickael Djedje",
+    "label": "Etudiant en B2 informatique",
+    "image": "/mikou.jpg",
+    "email": "mickaeldjedje7@gmail.com",
+    "phone": "+33 0669177983",
+    "url": "https://johndoe.dev",
+    "summary": "Développeur Front-End polyvalent, je maîtrise la création et l'optimisation d'interfaces utilisateur modernes et performantes. Passionné par l'ergonomie et l'expérience utilisateur, je combine mes compétences en développement avec une approche pratique et créative. Tout en étant à l'aise en front-end, je m'adapte aux besoins variés du projet, en intervenant également dans d'autres aspects du développement, que ce soit sur le back-end ou dans la mise en place de solutions techniques transverses.",
+    "theme": "blue",
+    "location": {
+      "address": "23 rue du 4 septembre",
+      "postalCode": "72000",
+      "city": "Le Mans",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Elohim Mickael Djedje",
+        "url": "https://www.linkedin.com/in/elohim-mickael-djedje-1ba875330"
+      },
+      {
+        "network": "GitHub",
+        "username": "elohimdjedje",
+        "url": "https://github.com/elohimdjedje"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Mufasa Restaurant - Paris",
+      "position": "Employé polyvalent de restauration",
+      "location_type": "Paris, France",
+      "location": "Paris",
+      "url": "https://mufasarestaurant.com/",
+      "startDate": "2024-10-01",
+      "endDate": null,
+      "summary": "Service rapide et gestion de commande. Travail en équipe et respect des règles.",
+      "highlights": [],
+      "responsibilities": [
+        "Service rapide et gestion de commande.",
+        "Travail en équipe et respect des règles."
+      ],
+      "achievements": [],
+      "skills": [
+        "Adaptabilité et réactivité",
+        "Esprit d'équipe",
+        "Gestion des interactions"
+      ]
+    },
+    {
+      "name": "Magasin KIABI - Côte d'Ivoire",
+      "position": "Vendeur",
+      "location_type": "Abidjan, Côte d'Ivoire",
+      "location": "Marcory",
+      "url": "https://vouzyet.com/index.php/inscription/call-it-spring-copy/",
+      "startDate": "2022-06-01",
+      "endDate": "2023-12-01",
+      "summary": "Expérience en mise en rayon avec application des techniques de merchandising et étiquetage des produits. Accueil et orientation des clients en fonction de leurs besoins. Gestion des stocks et réapprovisionnement pour assurer la disponibilité des articles.",
+      "highlights": [],
+      "responsibilities": [
+        "Mise en rayon selon les techniques de merchandising, étiquetage des produits.",
+        "Accueil des clients et identification de leurs besoins pour les orienter vers les produits adaptés.",
+        "Gestion des stocks et réapprovisionnement des rayons afin d'assurer la disponibilité des articles."
+      ],
+      "achievements": [
+        "Doté d’un excellent sens du relationnel, j’ai développé des compétences solides en communication et en travail d’équipe. L’accueil des clients et l’identification de leurs besoins ont renforcé ma capacité à écouter activement et à proposer des conseils personnalisés."
+      ],
+      "skills": [
+        "Adaptabilité et réactivité",
+        "Esprit d'équipe",
+        "Gestion des interactions"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ECE Paris",
+      "url": "https://www.ece.fr/nos-campus/campus-de-paris/",
+      "area": "Informatique",
+      "studyType": "BUT",
+      "startDate": "2024-09-01",
+      "endDate": null,
+      "score": "",
+      "courses": [
+        "Développement web",
+        "Gestion de base de données",
+        "Programmation en C"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "QCM - Python pour les Data Scientists - Techaway niv1 (FR)",
+      "date": "2024-10-02",
+      "issuer": "DataScientest",
+      "url": "",
+      "description": "Certification pour la réussite du module Python pour les Data Scientists, niveau 1, délivrée par DataScientest."
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML/CSS",
+      "level": "Avancé",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermédiaire",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermédiaire",
+      "keywords": [
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Opérationnel",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "level": "Intermédiaire",
+      "keywords": [
+        "CMS",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Notions",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Notions",
+      "keywords": [
+        "Programming",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Notions",
+      "keywords": [
+        "Programming",
+        "Backend"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Opérationnel"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Notions"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Développement Web",
+      "keywords": [
+        "Frontend",
+        "Backend",
+        "UI/UX"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Création d'un jeu Pacman",
+      "isActive": false,
+      "description": "Développement d'un jeu Pacman en utilisant le langage C et la bibliothèque Allegro.",
+      "highlights": [
+        "Développement d'interfaces web, front et back.",
+        "Gestion de la base de données des informations utilisateurs."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Création d'une bibliothèque en ligne",
+      "isActive": false,
+      "description": "Création et maintenance d'une bibliothèque en ligne en utilisant HTML, CSS, JavaScript et PHP.",
+      "highlights": [
+        "Optimisation des requêtes SQL et des performances des bases de données."
+      ],
+      "url": "",
+      "github": ""
+    }
+  ]
+}
